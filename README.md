@@ -2,6 +2,8 @@
 
 *The Movies Info app*, crafted by *Ahmed Guedmioui*, is a dynamic application designed with cutting-edge technologies, including *Jetpack Compose* and *Kotlin*. This project follows to clean code principles, thanks to the clarity and maintainability they bring. The application is built with the *Model-View-ViewModel (MVVM)* design pattern, which promotes a stable and scalable codebase. Additionally, *Dagger Hilt* is used for efficient dependency injection, which improves modularity and testability.
 
+## About The App
+With this app you can get information about movies and TV series, watch trailer, search and find the latest, most popular and top rated movies and TV series.
 
 ## Key Features
 
@@ -17,7 +19,7 @@
 
 To explore and contribute to *The Movies Info* app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/The-Movies-Info.git`
+1. Clone the repository: `git clone https://github.com/ahmed-guedmioui/The-Movies-Info.git`
 2. Build and run the project using your preferred IDE.
 3. Explore the codebase, contribute enhancements, and share your feedback.
 
@@ -32,10 +34,10 @@ Special thanks to the open-source community for their valuable contributions and
 ## Images From The App
 ![feature](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/9b987e15-f158-417a-a29c-368413a5a8b8)
 
-![s6](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/b507aa4d-5807-4a41-9c12-470b1969bbe4)
-![s5](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/9998f176-d02c-4f20-852c-cbe51d5813d0)
-![s4](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/5c34385c-8114-420b-9b8a-65b04d1d3c50)
-![s3](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/192cf490-583a-46a7-84a9-e2c7b135cfd8)
-![s2](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/9ea432d3-9be5-4564-86c1-ead703d7469a)
 ![s1](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/a388a322-ac20-4e7e-ab9e-8b08f14c0d80)
+![s2](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/9ea432d3-9be5-4564-86c1-ead703d7469a)
+![s3](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/192cf490-583a-46a7-84a9-e2c7b135cfd8)
+![s4](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/5c34385c-8114-420b-9b8a-65b04d1d3c50)
+![s5](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/9998f176-d02c-4f20-852c-cbe51d5813d0)
+![s6](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/b507aa4d-5807-4a41-9c12-470b1969bbe4)
 
